@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project 2/NameList.cpp
+
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project 2/Player.cpp
+Player.h
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project 2/Player.h
+iomanip
+-
+
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project 2/Player.h
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+iomanip
+-
+
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project 2/PlayerList.cpp
+PlayerList.h
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project 2/PlayerList.h
+
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project 2/PlayerList.h
+Player.h
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project 2/Player.h
+
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project 2/Program 2.cpp
+PlayerList.h
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project 2/PlayerList.h
+

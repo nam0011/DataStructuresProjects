@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/PROGRAM_2.dir/Program_2.cpp.o CMakeFiles/PROGRAM_2.dir/Player.cpp.o CMakeFiles/PROGRAM_2.dir/PlayerList.cpp.o CMakeFiles/PROGRAM_2.dir/NameList.cpp.o  -o PROGRAM_2.exe -Wl,--out-implib,libPROGRAM_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

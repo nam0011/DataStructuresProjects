@@ -1,0 +1,4 @@
+"C:\Users\Nathan Moore\.CLion2019.3\system\cygwin_cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/BinarySearchTree"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/BinarySearchTree/cmake-build-debug

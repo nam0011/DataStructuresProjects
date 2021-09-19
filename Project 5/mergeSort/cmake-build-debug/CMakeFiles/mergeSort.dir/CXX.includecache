@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Nathan Moore/Desktop/mergeSort/Player.h
+iostream
+-
+fstream
+-
+string
+-
+sstream
+-
+iomanip
+-
+
+/cygdrive/c/Users/Nathan Moore/Desktop/mergeSort/PlayerList.h
+Player.h
+/cygdrive/c/Users/Nathan Moore/Desktop/mergeSort/Player.h
+
+/cygdrive/c/Users/Nathan Moore/Desktop/mergeSort/main.cpp
+PlayerList.h
+/cygdrive/c/Users/Nathan Moore/Desktop/mergeSort/PlayerList.h
+
+/cygdrive/c/Users/Nathan Moore/Desktop/mergeSort/player.cpp
+Player.h
+/cygdrive/c/Users/Nathan Moore/Desktop/mergeSort/Player.h
+iomanip
+-
+
+/cygdrive/c/Users/Nathan Moore/Desktop/mergeSort/playerList.cpp
+PlayerList.h
+/cygdrive/c/Users/Nathan Moore/Desktop/mergeSort/PlayerList.h
+

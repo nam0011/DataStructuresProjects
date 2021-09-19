@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project Solutions/Program3_Solution/BaseballPlayer.cpp
+BaseballPlayer.h
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project Solutions/Program3_Solution/BaseballPlayer.h
+string.h
+-
+
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/Project Solutions/Program3_Solution/BaseballPlayer.h
+iostream
+-
+string
+-
+

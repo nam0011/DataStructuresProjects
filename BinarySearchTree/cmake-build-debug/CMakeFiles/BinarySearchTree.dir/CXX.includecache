@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/BinarySearchTree/playerList.cpp
+string.h
+-
+playerList.h
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/BinarySearchTree/playerList.h
+
+/cygdrive/c/Users/Nathan Moore/OneDrive - uah.edu/FA20/Data Structures/Projects/BinarySearchTree/playerList.h
+iostream
+-
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="BinarySearchTree" targetName="BinarySearchTree" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c419d72c-9f8a-4ea1-b589-eadf9675fce5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1jVuNRxH4VcQ1dIzHPD7JMK8CmC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project 3" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BinarySearchTree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BinarySearchTree" TARGET_NAME="BinarySearchTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BinarySearchTree" RUN_TARGET_NAME="BinarySearchTree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c419d72c-9f8a-4ea1-b589-eadf9675fce5" name="Default Changelist" comment="" />
+      <created>1603901539782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603901539782</updated>
+      <workItem from="1603901541372" duration="130000" />
+      <workItem from="1603901694842" duration="3058000" />
+      <workItem from="1604005474719" duration="37000" />
+      <workItem from="1604504909248" duration="622000" />
+      <workItem from="1604507685611" duration="3652000" />
+      <workItem from="1605028601214" duration="1193000" />
+      <workItem from="1605385584978" duration="759000" />
+      <workItem from="1605396110013" duration="1131000" />
+      <workItem from="1605815746605" duration="646000" />
+      <workItem from="1606691124010" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4710" y="841" key="FileChooserDialogImpl" timestamp="1605385715074">
+      <screen x="3840" y="664" width="1920" height="1040" />
+    </state>
+    <state x="870" y="217" key="FileChooserDialogImpl/-3840.-605.1920.1060/0.40.1920.1040@0.40.1920.1040" timestamp="1604508551978" />
+    <state x="4710" y="841" key="FileChooserDialogImpl/0.40.1707.920/3840.664.1920.1040@3840.664.1920.1040" timestamp="1605385715074" />
+    <state width="898" height="203" key="GridCell.Tab.0.bottom" timestamp="1604512682452">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="898" height="203" key="GridCell.Tab.0.bottom/-3840.-605.1920.1060/0.40.1920.1040@0.40.1920.1040" timestamp="1604512682452" />
+    <state width="2149" height="332" key="GridCell.Tab.0.bottom/0.40.1920.1040/-3840.-1039.2194.1194@-3840.-1039.2194.1194" timestamp="1603901671419" />
+    <state width="1875" height="178" key="GridCell.Tab.0.bottom/0.40.1920.1040/-3840.-1039.2194.1194@0.40.1920.1040" timestamp="1603910632823" />
+    <state width="898" height="203" key="GridCell.Tab.0.center" timestamp="1604512682452">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="898" height="203" key="GridCell.Tab.0.center/-3840.-605.1920.1060/0.40.1920.1040@0.40.1920.1040" timestamp="1604512682452" />
+    <state width="2149" height="332" key="GridCell.Tab.0.center/0.40.1920.1040/-3840.-1039.2194.1194@-3840.-1039.2194.1194" timestamp="1603901671418" />
+    <state width="1875" height="178" key="GridCell.Tab.0.center/0.40.1920.1040/-3840.-1039.2194.1194@0.40.1920.1040" timestamp="1603910632823" />
+    <state width="898" height="203" key="GridCell.Tab.0.left" timestamp="1604512682452">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="898" height="203" key="GridCell.Tab.0.left/-3840.-605.1920.1060/0.40.1920.1040@0.40.1920.1040" timestamp="1604512682452" />
+    <state width="2149" height="332" key="GridCell.Tab.0.left/0.40.1920.1040/-3840.-1039.2194.1194@-3840.-1039.2194.1194" timestamp="1603901671418" />
+    <state width="1875" height="178" key="GridCell.Tab.0.left/0.40.1920.1040/-3840.-1039.2194.1194@0.40.1920.1040" timestamp="1603910632823" />
+    <state width="898" height="203" key="GridCell.Tab.0.right" timestamp="1604512682452">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="898" height="203" key="GridCell.Tab.0.right/-3840.-605.1920.1060/0.40.1920.1040@0.40.1920.1040" timestamp="1604512682452" />
+    <state width="2149" height="332" key="GridCell.Tab.0.right/0.40.1920.1040/-3840.-1039.2194.1194@-3840.-1039.2194.1194" timestamp="1603901671418" />
+    <state width="1875" height="178" key="GridCell.Tab.0.right/0.40.1920.1040/-3840.-1039.2194.1194@0.40.1920.1040" timestamp="1603910632823" />
+    <state x="2474" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1606691124299">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="693" y="406" key="com.intellij.ide.util.TipDialog/-3840.-605.1920.1060/0.40.1920.1040@0.40.1920.1040" timestamp="1604507685755" />
+    <state x="2474" y="290" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/0.-2120.1920.1040/1920.0.1536.824@1920.0.1536.824" timestamp="1606691124299" />
+    <state x="-3048" y="-619" key="com.intellij.ide.util.TipDialog/0.40.1920.1040/-3840.-1039.2194.1194@-3840.-1039.2194.1194" timestamp="1603901695275" />
+    <state x="784" y="456" key="com.intellij.ide.util.TipDialog/0.40.2172.1182/-3840.-576.1920.1040@0.40.2172.1182" timestamp="1604005476776" />
+    <state x="616" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1604505395117">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="616" y="213" width="670" height="676" key="search.everywhere.popup/-3840.-605.1920.1060/0.40.1920.1040@0.40.1920.1040" timestamp="1604505395117" />
+  </component>
+</project>
